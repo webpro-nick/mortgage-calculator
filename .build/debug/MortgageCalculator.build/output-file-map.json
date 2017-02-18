@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nicholasnawoschik/Dropbox (Personal)/UWF/AppleProgramming/Assignments/Assignment_06/Part_02/MortgageCalculator/.build/debug/MortgageCalculator.build/master.swiftdeps"
+  },
+  "/Users/nicholasnawoschik/Dropbox (Personal)/UWF/AppleProgramming/Assignments/Assignment_06/Part_02/MortgageCalculator/Sources/MortgageCalculator.swift": {
+    "dependencies": "/Users/nicholasnawoschik/Dropbox (Personal)/UWF/AppleProgramming/Assignments/Assignment_06/Part_02/MortgageCalculator/.build/debug/MortgageCalculator.build/MortgageCalculator.d",
+    "object": "/Users/nicholasnawoschik/Dropbox (Personal)/UWF/AppleProgramming/Assignments/Assignment_06/Part_02/MortgageCalculator/.build/debug/MortgageCalculator.build/MortgageCalculator.swift.o",
+    "swiftmodule": "/Users/nicholasnawoschik/Dropbox (Personal)/UWF/AppleProgramming/Assignments/Assignment_06/Part_02/MortgageCalculator/.build/debug/MortgageCalculator.build/MortgageCalculator~partial.swiftmodule",
+    "swift-dependencies": "/Users/nicholasnawoschik/Dropbox (Personal)/UWF/AppleProgramming/Assignments/Assignment_06/Part_02/MortgageCalculator/.build/debug/MortgageCalculator.build/MortgageCalculator.swiftdeps"
+  }
+}
